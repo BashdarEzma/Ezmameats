@@ -1,0 +1,777 @@
+{
+    "brands": [
+        {
+            "id": 9,
+            "name": "Amber",
+            "slug": "amber",
+            "description": "Frozen boneless buffalo meat, exported at source with 14 premium cuts available. Manufactured by Mirha Exports Pvt Ltd (New Delhi, India) and officially distributed in Iraq by Ezma FMCG.",
+            "color": "#2a4536"
+        },
+        {
+            "id": 8,
+            "name": "Copacol",
+            "slug": "copacol",
+            "description": "Frozen chicken products, Halal certified and export-ready. Individually bagged retail packs and bulk foodservice cartons, inspected and certified in full compliance with Shariah law and international Halal standards.",
+            "color": "#ee4d23"
+        }
+    ],
+    "categories": [
+        {
+            "id": 17,
+            "name": "Chilled Pack Cuts",
+            "slug": "chilled-pack-cuts"
+        },
+        {
+            "id": 20,
+            "name": "Chilled Poultry Offal",
+            "slug": "chilled-poultry-offal"
+        },
+        {
+            "id": 18,
+            "name": "Cuts – Frozen Packets",
+            "slug": "cuts-frozen-packets"
+        },
+        {
+            "id": 11,
+            "name": "Frozen Boneless Buffalo Meat",
+            "slug": "frozen-boneless-buffalo-meat"
+        },
+        {
+            "id": 10,
+            "name": "Frozen Chicken Breast",
+            "slug": "frozen-chicken-breast"
+        },
+        {
+            "id": 19,
+            "name": "Frozen Tray Cuts",
+            "slug": "frozen-tray-cuts"
+        },
+        {
+            "id": 16,
+            "name": "Whole Chicken",
+            "slug": "whole-chicken"
+        }
+    ],
+    "products": [
+        {
+            "id": 28,
+            "title": "Blade",
+            "slug": "blade",
+            "excerpt": "Frozen boneless buffalo blade cut, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo blade, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-blade.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5-7 kg / packet",
+            "carton_info": "3 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 31,
+            "title": "Bobby Veal (BV)",
+            "slug": "bobby-veal-bv",
+            "excerpt": "Frozen boneless buffalo bobby veal, export quality, frozen at source.",
+            "content": "<p>Bobby veal comes from the front portion (forequarter) of the buffalo carcass. Export-quality, frozen at source for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-bobby-veal.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "900 gms / packet (5-7 pcs/packet)",
+            "carton_info": "20 pcs of 900g packet — 18 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 29,
+            "title": "Brisket",
+            "slug": "brisket",
+            "excerpt": "Frozen boneless buffalo brisket, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo brisket, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-brisket.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5 kg / packet",
+            "carton_info": "4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 81,
+            "title": "Chilled Chicken Drumette",
+            "slug": "chilled-chicken-drumette",
+            "excerpt": "Chicken drumette (wing). Variable-weight packs, 14 days shelf life.",
+            "content": "<p>Chicken drumette (wing), supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/chilled-chicken-drumette-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-pack-cuts"
+            ],
+            "cut_spec": "Chicken drumette (wing)",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (70 g (1 1/7 pieces)): Energy (kcal): 123, Protein (g): 13, Total fat (g): 8, Saturated fat (g): 2.3, Sodium (mg): 49. Gluten-free."
+        },
+        {
+            "id": 85,
+            "title": "Chilled Chicken Gizzard (600g Pack)",
+            "slug": "chilled-chicken-gizzard-600g-pack",
+            "excerpt": "Chicken gizzard. Trays of 600g, 14 days shelf life.",
+            "content": "<p>Chicken gizzard, supplied by Copacol. Trays of 600g. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/cold-kids-moela-de-frango-resfriada-pct-600g-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-poultry-offal"
+            ],
+            "cut_spec": "Chicken gizzard",
+            "pack_size": "Trays of 600g",
+            "carton_info": "20 x 600g = 12 kg box",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (113 g (3 1/2 pieces)): Energy (kcal): 121, Protein (g): 19, Total fat (g): 5.1, Saturated fat (g): 2.1, Sodium (mg): 71. Contains no declared allergens."
+        },
+        {
+            "id": 83,
+            "title": "Chilled Chicken Heart (600g Tray)",
+            "slug": "chilled-chicken-heart-600g-tray",
+            "excerpt": "Chicken heart. Trays of 600g, 14 days shelf life.",
+            "content": "<p>Chicken heart, supplied by Copacol. Trays of 600g. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/cold-kids-coracao-de-frango-resfriado-band-600g-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-poultry-offal"
+            ],
+            "cut_spec": "Chicken heart",
+            "pack_size": "Trays of 600g",
+            "carton_info": "20 x 600g = 12 kg box",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (114 g (9 pieces)): Energy (kcal): 120, Protein (g): 11, Total fat (g): 8.7, Saturated fat (g): 2.6, Sodium (mg): 78. Contains no declared allergens."
+        },
+        {
+            "id": 61,
+            "title": "Chilled Chicken Leg Quarter",
+            "slug": "chilled-chicken-leg-quarter",
+            "excerpt": "Chicken drumstick and thigh. Variable-weight packs, 14 days shelf life.",
+            "content": "<p>Chicken drumstick and thigh, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/chilled-chicken-leg-quarter-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-pack-cuts"
+            ],
+            "cut_spec": "Chicken drumstick and thigh",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (85 g (1/4 piece)): Energy (kcal): 125, Protein (g): 15, Total fat (g): 7.2, Saturated fat (g): 2.2, Sodium (mg): 48. Gluten-free."
+        },
+        {
+            "id": 84,
+            "title": "Chilled Chicken Liver (600g Tray)",
+            "slug": "chilled-chicken-liver-600g-tray",
+            "excerpt": "Chicken liver. Trays of 600g, 14 days shelf life.",
+            "content": "<p>Chicken liver, supplied by Copacol. Trays of 600g. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/cold-kids-figado-de-frango-resfriado-band-600g-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-poultry-offal"
+            ],
+            "cut_spec": "Chicken liver",
+            "pack_size": "Trays of 600g",
+            "carton_info": "20 x 600g = 12 kg box",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (124 g (2 1/2 pieces)): Energy (kcal): 125, Protein (g): 20, Total fat (g): 4.8, Saturated fat (g): 2, Sodium (mg): 63. Contains no declared allergens."
+        },
+        {
+            "id": 82,
+            "title": "Chilled Chicken Mid-Wing",
+            "slug": "chilled-chicken-mid-wing",
+            "excerpt": "Chicken mid-wing. Variable-weight packs, 14 days shelf life.",
+            "content": "<p>Chicken mid-wing, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/chilled-chicken-mid-wing-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-pack-cuts"
+            ],
+            "cut_spec": "Chicken mid-wing",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (107 g (2 1/2 pieces)): Energy (kcal): 125, Protein (g): 20, Total fat (g): 5, Saturated fat (g): 1.6, Sodium (mg): 53. Gluten-free."
+        },
+        {
+            "id": 69,
+            "title": "Chilled Chicken Thigh",
+            "slug": "chilled-chicken-thigh",
+            "excerpt": "Chicken thigh. Variable-weight packs, 14 days shelf life.",
+            "content": "<p>Chicken thigh, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/chilled-chicken-thigh-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "chilled-pack-cuts"
+            ],
+            "cut_spec": "Chicken thigh",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (90 g (1/2 piece)): Energy (kcal): 125, Protein (g): 15, Total fat (g): 7.1, Saturated fat (g): 2.3, Sodium (mg): 54. Gluten-free."
+        },
+        {
+            "id": 60,
+            "title": "Cube Roll",
+            "slug": "cube-roll",
+            "excerpt": "Frozen boneless buffalo cube roll, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo cube roll, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-cube-roll.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5-7 kg / packet",
+            "carton_info": "3-4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 92,
+            "title": "Frozen Boneless Skinless Chicken Leg &#038; Thigh (Tray)",
+            "slug": "frozen-boneless-skinless-chicken-leg-thigh-tray",
+            "excerpt": "Boneless, skinless chicken leg and thigh. 1 year shelf life.",
+            "content": "<p>Boneless, skinless chicken leg and thigh, supplied by Copacol. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-tray-cuts-coxa-sobrecoxa-sem-osso-sem-pele-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "frozen-tray-cuts"
+            ],
+            "cut_spec": "Boneless, skinless chicken leg and thigh",
+            "pack_size": "Trays of 1 Kg",
+            "carton_info": "12 x 1 kg = 12 kg box",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (90 g (3/7 piece)): Energy (kcal): 125, Protein (g): 15, Total fat (g): 7.1, Saturated fat (g): 2.3, Sodium (mg): 54. Contains no declared allergens."
+        },
+        {
+            "id": 26,
+            "title": "Frozen Chicken Breast — Halves, Boneless, Skinless",
+            "slug": "frozen-chicken-breast-halves-boneless-skinless",
+            "excerpt": "Retail 2kg bags of boneless, skinless chicken breast halves, Halal certified.",
+            "content": "<p>A lean, versatile boneless skinless breast half, trimmed without the inner fillet for a clean, uniform presentation. Snap-frozen to lock in freshness, ideal for retail shelves, foodservice kitchens, and further processing. Available for international shipment by sea, air, or land.</p>\n",
+            "image": "/wp-content/uploads/2026/09/copacol-retail-2kg-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "frozen-chicken-breast"
+            ],
+            "cut_spec": "Boneless, Skinless, In Halves (without inner fillet)",
+            "pack_size": "2 Kg per bag",
+            "carton_info": "Individually bagged, master carton packed",
+            "storage": "Keep frozen at -19°C or below",
+            "shelf_life": "12 months from production date",
+            "certification": "Halal Certified",
+            "notes": ""
+        },
+        {
+            "id": 93,
+            "title": "Frozen Chicken Breast Fillet (1kg Tray)",
+            "slug": "frozen-chicken-breast-fillet-1kg-tray",
+            "excerpt": "Chicken breast fillet. Trays of 1 Kg, 1 year shelf life.",
+            "content": "<p>Chicken breast fillet, supplied by Copacol. Trays of 1 Kg. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-tray-cuts-file-de-peito-congelado-1kg.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "frozen-tray-cuts"
+            ],
+            "cut_spec": "Chicken breast fillet",
+            "pack_size": "Trays of 1 Kg",
+            "carton_info": "12 x 1 kg = 12 kg box",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (122 g (2/5 piece)): Energy (kcal): 125, Protein (g): 27, Total fat (g): 2.1, Saturated fat (g): 0.7, Sodium (mg): 49. Contains no declared allergens."
+        },
+        {
+            "id": 87,
+            "title": "Frozen Chicken Drumette (Pack)",
+            "slug": "frozen-chicken-drumette-pack",
+            "excerpt": "Chicken drumette (wing). Variable-weight packs, 1 year shelf life.",
+            "content": "<p>Chicken drumette (wing), supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-chicken-drumette-pack-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "cuts-frozen-packets"
+            ],
+            "cut_spec": "Chicken drumette (wing)",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (70 g (1 1/7 pieces)): Energy (kcal): 123, Protein (g): 13, Total fat (g): 8, Saturated fat (g): 2.3, Sodium (mg): 49. Contains no declared allergens."
+        },
+        {
+            "id": 91,
+            "title": "Frozen Chicken Drumette (Tray)",
+            "slug": "frozen-chicken-drumette-tray",
+            "excerpt": "Chicken drumette (wing). Trays of 1 Kg, 1 year shelf life.",
+            "content": "<p>Chicken drumette (wing), supplied by Copacol. Trays of 1 Kg. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-tray-cuts-coxinha-da-asa-congelada.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "frozen-tray-cuts"
+            ],
+            "cut_spec": "Chicken drumette (wing)",
+            "pack_size": "Trays of 1 Kg",
+            "carton_info": "12 x 1 kg = 12 kg box",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (70 g (1 1/7 pieces)): Energy (kcal): 123, Protein (g): 13, Total fat (g): 8, Saturated fat (g): 2.3, Sodium (mg): 49. Contains no declared allergens."
+        },
+        {
+            "id": 89,
+            "title": "Frozen Chicken Feet (2kg)",
+            "slug": "frozen-chicken-feet-2kg",
+            "excerpt": "Frozen chicken feet. 2 kg packs, 1 year shelf life.",
+            "content": "<p>Frozen chicken feet, supplied by Copacol. 2 kg packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-chicken-feet-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "cuts-frozen-packets"
+            ],
+            "cut_spec": "Frozen Chicken Feet (2kg)",
+            "pack_size": "2 kg packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Gluten-free."
+        },
+        {
+            "id": 88,
+            "title": "Frozen Chicken Wing Tulip (Mid-Wing)",
+            "slug": "frozen-chicken-wing-tulip-mid-wing",
+            "excerpt": "Chicken mid-wing. Variable-weight packs, 1 year shelf life.",
+            "content": "<p>Chicken mid-wing, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-chicken-wing-tulip-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "cuts-frozen-packets"
+            ],
+            "cut_spec": "Chicken mid-wing",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (107 g (2 1/2 pieces)): Energy (kcal): 125, Protein (g): 20, Total fat (g): 5, Saturated fat (g): 1.6, Sodium (mg): 53. Contains no declared allergens."
+        },
+        {
+            "id": 86,
+            "title": "Frozen Whole Wing",
+            "slug": "frozen-whole-wing",
+            "excerpt": "Whole chicken wing. Variable-weight packs, 1 year shelf life.",
+            "content": "<p>Whole chicken wing, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-whole-wing-pack-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "cuts-frozen-packets"
+            ],
+            "cut_spec": "Whole chicken wing",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 16 kg",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (70 g (3/5 piece)): Energy (kcal): 125, Protein (g): 12, Total fat (g): 8.4, Saturated fat (g): 2.4, Sodium (mg): 48. Contains no declared allergens."
+        },
+        {
+            "id": 90,
+            "title": "Frozen Whole Wing (1kg Tray)",
+            "slug": "frozen-whole-wing-1kg-tray",
+            "excerpt": "Chicken wing. Trays of 1 Kg, 1 year shelf life.",
+            "content": "<p>Chicken wing, supplied by Copacol. Trays of 1 Kg. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/frozen-tray-cuts-asa-inteira-congelada-1kg-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "frozen-tray-cuts"
+            ],
+            "cut_spec": "Chicken wing",
+            "pack_size": "Trays of 1 Kg",
+            "carton_info": "12 x 1 kg = 12 kg box",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (70 g (3/5 piece)): Energy (kcal): 125, Protein (g): 12, Total fat (g): 8.4, Saturated fat (g): 2.4, Sodium (mg): 48. Contains no declared allergens."
+        },
+        {
+            "id": 30,
+            "title": "Neck",
+            "slug": "neck",
+            "excerpt": "Frozen boneless buffalo neck, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo neck, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-neck.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5 kg / packet",
+            "carton_info": "4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 34,
+            "title": "Rumpsteak",
+            "slug": "rumpsteak",
+            "excerpt": "Frozen boneless buffalo rumpsteak, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo rumpsteak, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-rumpsteak.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "4-5 kg / packet",
+            "carton_info": "4-5 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 36,
+            "title": "Silverside",
+            "slug": "silverside",
+            "excerpt": "Frozen boneless buffalo silverside, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo silverside, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-silverside.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5-7 kg / packet",
+            "carton_info": "3-4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 32,
+            "title": "Slices",
+            "slug": "slices",
+            "excerpt": "Frozen boneless buffalo meat slices, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo meat slices, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-slices.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "900 gms / packet (3-4 pcs/packet)",
+            "carton_info": "20 pcs of 900g packet — 18 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 37,
+            "title": "Strip Loin",
+            "slug": "strip-loin",
+            "excerpt": "Frozen boneless buffalo strip loin, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo strip loin, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-strip-loin.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "2-3 kg / packet",
+            "carton_info": "8 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 39,
+            "title": "Tenderloin",
+            "slug": "tenderloin",
+            "excerpt": "Frozen boneless buffalo tenderloin, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo tenderloin, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-tenderloin.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "1.5-2.5 kg / packet",
+            "carton_info": "10 packets — 18-20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 40,
+            "title": "Thick Flank",
+            "slug": "thick-flank",
+            "excerpt": "Frozen boneless buffalo thick flank, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo thick flank, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-thick-flank.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "4-5 kg / packet",
+            "carton_info": "4-5 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 41,
+            "title": "Top Side",
+            "slug": "top-side",
+            "excerpt": "Frozen boneless buffalo top side, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo top side, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-top-side.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5 kg / packet",
+            "carton_info": "4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 47,
+            "title": "Veal Leg",
+            "slug": "veal-leg",
+            "excerpt": "Frozen boneless buffalo veal leg, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo veal leg, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-veal-leg.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "5 kg / packet",
+            "carton_info": "4 packets — 20 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 53,
+            "title": "Veal Tenderloin",
+            "slug": "veal-tenderloin",
+            "excerpt": "Frozen boneless buffalo veal tenderloin, export quality, frozen at source.",
+            "content": "<p>Export-quality frozen boneless buffalo veal tenderloin, sourced and processed at origin for international shipment.</p>\n",
+            "image": "/wp-content/uploads/2026/09/amber-veal-tenderloin.png",
+            "brands": [
+                "amber"
+            ],
+            "categories": [
+                "frozen-boneless-buffalo-meat"
+            ],
+            "cut_spec": "Frozen Boneless Buffalo Meat",
+            "pack_size": "1 kg / packet",
+            "carton_info": "18 packets — 18 Kg carton",
+            "storage": "Keep Frozen",
+            "shelf_life": "",
+            "certification": "Export Quality Certified",
+            "notes": "Fat Content Category: 98VL"
+        },
+        {
+            "id": 94,
+            "title": "Whole Chicken Without Giblets — Chilled",
+            "slug": "whole-chicken-without-giblets-chilled",
+            "excerpt": "Whole chicken without giblets. Variable-weight packs, 14 days shelf life.",
+            "content": "<p>Whole chicken without giblets, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/whole-chicken-frango-inteiro-sem-miudos-resfriado.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "whole-chicken"
+            ],
+            "cut_spec": "Whole chicken without giblets",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 15 kg",
+            "storage": "Keep refrigerated 0–4°C",
+            "shelf_life": "14 days",
+            "certification": "",
+            "notes": "Per serving (115 g (1 piece)): Energy (kcal): 125, Protein (g): 26, Total fat (g): 2.5, Saturated fat (g): 0.9, Sodium (mg): 49. Contains no declared allergens."
+        },
+        {
+            "id": 95,
+            "title": "Whole Chicken Without Giblets — Frozen",
+            "slug": "whole-chicken-without-giblets-frozen",
+            "excerpt": "Whole chicken without giblets. Variable-weight packs, 1 year shelf life.",
+            "content": "<p>Whole chicken without giblets, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/whole-chicken-frango-inteiro-sem-miudos-congelado.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "whole-chicken"
+            ],
+            "cut_spec": "Whole chicken without giblets",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "Box of 15 kg",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (115 g (1 piece)): Energy (kcal): 125, Protein (g): 26, Total fat (g): 2.5, Saturated fat (g): 0.9, Sodium (mg): 49. Contains no declared allergens."
+        },
+        {
+            "id": 96,
+            "title": "Whole Chicken Without Giblets — Seasoned, Frozen",
+            "slug": "whole-chicken-without-giblets-seasoned-frozen",
+            "excerpt": "Whole chicken without giblets, seasoned. Variable-weight packs, 1 year shelf life.",
+            "content": "<p>Whole chicken without giblets, seasoned, supplied by Copacol. Variable-weight packs. Sourced from the official Copacol Brazil catalogue (copacol.com.br).</p>\n",
+            "image": "/wp-content/uploads/2026/09/whole-chicken-frango-inteiro-sem-miudos-temperado-congelado-scaled.png",
+            "brands": [
+                "copacol"
+            ],
+            "categories": [
+                "whole-chicken"
+            ],
+            "cut_spec": "Whole chicken without giblets, seasoned",
+            "pack_size": "Variable-weight packs",
+            "carton_info": "6 Peças = 15 kg box",
+            "storage": "Keep frozen at -18°C or below",
+            "shelf_life": "1 year",
+            "certification": "",
+            "notes": "Per serving (100 g (2 small pieces)): Energy (kcal): 128, Carbohydrates (g): 0.9, Total sugars (g): 0.9, Added sugars (g): 0.9, Protein (g): 25, Total fat (g): 2.4, Saturated fat (g): 0.8, Dietary fiber (g): 1.6, Sodium (mg): 678. Contains no declared allergens."
+        }
+    ],
+    "pages": {
+        "home": {
+            "id": 11,
+            "title": "Home",
+            "content": ""
+        },
+        "brands": {
+            "id": 7,
+            "title": "Our Brands",
+            "content": "<p>Ezmameats brings together two distinct international meat product brands, each with its own product range and market focus, backed by shared quality and food safety standards.</p>\n"
+        },
+        "about-us": {
+            "id": 8,
+            "title": "About Us",
+            "content": "<h2>Who We Are</h2>\n<p>Ezmameats is the international meat products division of Ezma Holding, bringing together trusted brands built on quality sourcing, rigorous processing, and export-ready reliability.</p>\n<h2>Our Brands</h2>\n<p>Ezmameats operates two distinct international brands:</p>\n<ul>\n<li><strong>Copacol</strong> &mdash; frozen chicken products, Halal certified and export-ready, available in retail and foodservice bulk packs.</li>\n<li><strong>Amber</strong> &mdash; frozen boneless buffalo meat, 14 premium export cuts, manufactured by Mirha Exports Pvt Ltd (New Delhi, India) and officially distributed in Iraq by Ezma FMCG.</li>\n</ul>\n<p>Visit our <a href=\"/brands/\">Brands page</a> for the full product range.</p>\n<h2>Quality &amp; Certifications</h2>\n<p>Copacol products are inspected, assessed, and certified in full compliance with Shariah law and international Halal standards. Certified by Halal Certification Services Chongqing (HCS) to the Indonesian Halal Standard / GSO Halal Standard (GSO 2:2021-2055), recognized by BPJPH &amp; GAC Accreditation Center. Every certificate is verifiable via QR code.</p>\n<p>Amber buffalo meat is export quality certified and kept frozen from source through delivery.</p>\n"
+        },
+        "trademark-notice": {
+            "id": 10,
+            "title": "Trademark Notice",
+            "content": "<p>This Trademark Notice governs the use of brand names, logos, and product identifiers displayed on this website (ezmameats.com).</p>\n<h2>Ownership</h2>\n<p>&ldquo;Ezmameats&rdquo;, &ldquo;Copacol&rdquo;, &ldquo;Amber&rdquo;, their logos, and associated product names (collectively, the &ldquo;Marks&rdquo;) are trademarks of Ezma Holding and/or its subsidiaries and licensed partners. Ezmameats operates as an independent brand identity under Ezma Holding and maintains its own website, separate from <a href=\"https://ezmaholding.com\" target=\"_blank\" rel=\"noopener\">ezmaholding.com</a>.</p>\n<h2>Brand &amp; Distribution Partners</h2>\n<p>Amber frozen boneless buffalo meat is manufactured by Mirha Exports Pvt Ltd (New Delhi, India) and officially distributed in Iraq by Ezma FMCG. Copacol frozen chicken products are certified by Halal Certification Services Chongqing (HCS). Use of the Amber, Mirha Exports, or Copacol names in connection with any other product or service requires prior written consent from the respective rights holder.</p>\n<h2>Permitted Use</h2>\n<p>No part of the Marks, product imagery, or brand content on this site may be reproduced, copied, distributed, or used in connection with any product or service without prior written consent from Ezma Holding.</p>\n<h2>Third-Party Use</h2>\n<p>Any unauthorized use of the Marks, including for counterfeit goods, misleading affiliation claims, or unlicensed distribution, may result in legal action.</p>\n<h2>Reporting Misuse</h2>\n<p>If you believe the Ezmameats, Copacol, or Amber brands, their logos, or product names are being misused, please contact us at <a href=\"mailto:legal@ezmameats.com\">legal@ezmameats.com</a>.</p>\n<p><em>Have this notice reviewed by legal counsel before publishing live.</em></p>\n"
+        }
+    },
+    "site": {
+        "name": "Ezmameats",
+        "description": "International Meat Brands",
+        "logo": "/wp-content/uploads/2026/09/ezma_meats.png"
+    }
+}
